@@ -7,7 +7,7 @@ if choice1=="left":
         if choice3=="yellow":
             print("you win")
         elif choice3=="blue":
-            print("goblins ate you. game over")
+            print("goblins ate you. game over") 
         else:
             print("you fell into a mountain. Game over")
     else:
