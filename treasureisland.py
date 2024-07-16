@@ -9,7 +9,7 @@ if choice1=="left":
         elif choice3=="blue":
             print("goblins ate you. game over") 
         else:
-            print("you fell into a mountain. Game over")
+            print("you fell into a mountain. Game over") 
     else:
         print("pirana fish will eat you . Game over")
 else:
